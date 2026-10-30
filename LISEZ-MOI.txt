@@ -1,0 +1,23 @@
+SITE WEB — APPRENDS UN MÉTIER TECHNIQUE, À TON RYTHME
+
+CONTENU
+- index.html : structure et textes du site
+- style.css : apparence responsive (ordinateur et téléphone)
+- script.js : menu mobile et formulaire de demande
+
+APERÇU
+Ouvrir index.html dans un navigateur.
+
+AVANT PUBLICATION, REMPLACER / COMPLÉTER
+1. CONTACT_EMAIL_A_REMPLACER dans script.js par l'adresse e-mail officielle.
+2. Les coordonnées (téléphone, e-mail, adresse) dans index.html.
+3. Confirmer les formations réellement proposées, les tarifs, durées, conditions et calendrier.
+4. Ajouter les mentions légales, politique de confidentialité et informations sur l'organisme.
+
+PAIEMENT PAYDUNYA
+Cette version est une vitrine et un formulaire de demande. Aucun paiement réel n'est activé.
+Ne mettez jamais de clé secrète PayDunya dans le HTML ou JavaScript public.
+L'intégration réelle nécessite un serveur sécurisé qui crée les demandes de paiement et vérifie les notifications IPN côté serveur. L'endpoint IPN doit être une URL HTTPS publique qui pointe vers ce serveur. Laissez l'IPN désactivé tant que ce serveur n'est pas déployé et testé.
+
+PUBLICATION
+Déployer le dossier complet sur un hébergeur web avec un nom de domaine. Le site utilise Google Fonts en ligne ; une connexion Internet est nécessaire pour charger ces polices.
