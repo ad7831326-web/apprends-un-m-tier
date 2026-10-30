@@ -21,3 +21,6 @@ L'intégration réelle nécessite un serveur sécurisé qui crée les demandes d
 
 PUBLICATION
 Déployer le dossier complet sur un hébergeur web avec un nom de domaine. Le site utilise Google Fonts en ligne ; une connexion Internet est nécessaire pour charger ces polices.
+
+
+FORMULAIRE D’INSCRIPTION : les demandes sont configurées pour être transmises à ad7831326@gmail.com via FormSubmit. Lors du premier envoi, FormSubmit enverra un e-mail de confirmation à cette adresse. Ouvrir cet e-mail et cliquer sur le lien de confirmation pour activer la réception. FormSubmit est un service tiers ; les données du formulaire lui sont transmises pour acheminer le message. Ne pas demander de données bancaires dans ce formulaire.
